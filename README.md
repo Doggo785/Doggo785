@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at CESI Engineering School.<br>🌱 I’m currently learning C++ and Cybersecurity<br>⚡ Fun fact I like dogs, cybersecurity and dogs who master cybersecurity<br>📫 How to reach me: stephane.plathey@proton.me
+🔭 I’m currently studying at CESI Engineering School.<br>🌱 I’m currently learning C++ and Cybersecurity<br>⚡ Fun fact I like dogs, cybersecurity and dogs who master cybersecurity<br>📫 How to reach me: stephane.plathey@proton.me
 
 
 ## 🌐 Socials:
